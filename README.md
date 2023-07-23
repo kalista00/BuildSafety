@@ -30,13 +30,11 @@
 >
 > **제작 기간:** 2023.06 ~ 07.
 >
-> **배포일:** 2021.10.05.
->
-> **주요 기능:** 라이트/다크 모드, 반응형 웹, Hash Link, Email 전송, 배포 및 커스텀 도메인 연결, open graph
+> **주요 기능:** 
 >
 > **사용 기술:** React, Styled-components, Firebase Hosting
 >
-> **문의:** keemgreat@gmail.com
+> **문의:** rambo71025453@gmail.com
 
 <br />
 
