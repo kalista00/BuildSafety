@@ -55,7 +55,7 @@
 <br />
 
 ## **👨🏻‍💻 기능 구현**
-
+<!--
 ### **1. 라이트/다크 모드**
 
 <img width="100%" alt="라이트/다크모드" src="https://user-images.githubusercontent.com/51189962/136142455-dd9bbdf1-4676-408c-bdc2-009f133e92db.gif" />
