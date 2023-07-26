@@ -32,8 +32,6 @@
 >
 > **주요 기능:** 
 >
-> **사용 기술:** React, Styled-components, Firebase Hosting
->
 > **문의:** rambo71025453@gmail.com
  
 <br />
