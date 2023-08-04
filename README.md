@@ -61,7 +61,7 @@
 
 ## **👨🏻‍💻 기능 구현**
 <!--
-### **1. 라이트/다크 모드**
+### **1. 시공페이지**
 
 <img width="100%" alt="라이트/다크모드" src="https://user-images.githubusercontent.com/51189962/136142455-dd9bbdf1-4676-408c-bdc2-009f133e92db.gif" />
 
@@ -76,7 +76,7 @@
 - Hash Link링크를 이용하여 네비게이션에서 메뉴 클릭시 해당 영역으로 스크롤되도록 구현
 - 해당하는 메뉴의 영역은 Full page.js와 유사하게 스타일링함
 
-### **3. 반응형 웹**
+### **3. 설계페이지**
 
 <img width="100%" alt="반응형" src="https://user-images.githubusercontent.com/51189962/136144110-0a5cb56e-1dcf-4bc8-b7d8-b93bbb100744.gif" />
 
