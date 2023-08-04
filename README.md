@@ -60,26 +60,25 @@
 <br />
 
 ## **👨🏻‍💻 기능 구현**
-<!--
-### **1. 시공페이지**
 
-<img width="100%" alt="라이트/다크모드" src="https://user-images.githubusercontent.com/51189962/136142455-dd9bbdf1-4676-408c-bdc2-009f133e92db.gif" />
+### **1. 메인페이지**
+![image](https://github.com/kalista00/BuildSafety/assets/122184547/28c0c548-dc31-421b-b283-029a4e1ea54f)
 
 - 라이트 및 다크모드 기능 구현
 - 사용자의 시스템 모드에 맞게 theme이 설정되도록 구현
 - 사용자가 설정한 테마가 localStorage에 저장되어 한번 설정한 이후 같은 theme을 보여주도록 구현
 
-### **2. Hash Link**
+### **2. 로그인**
 
-<img width="100%" alt="hashlink" src="https://user-images.githubusercontent.com/51189962/136143186-aeb70c36-8e21-40e7-b937-deea0e66ad18.gif" />
+![image](https://github.com/kalista00/BuildSafety/assets/122184547/13abada1-7927-4d70-ae6d-80869a5d31a4)
 
 - Hash Link링크를 이용하여 네비게이션에서 메뉴 클릭시 해당 영역으로 스크롤되도록 구현
 - 해당하는 메뉴의 영역은 Full page.js와 유사하게 스타일링함
 
-### **3. 설계페이지**
+### **3. 지도**
 
-<img width="100%" alt="반응형" src="https://user-images.githubusercontent.com/51189962/136144110-0a5cb56e-1dcf-4bc8-b7d8-b93bbb100744.gif" />
-
+![image](https://github.com/kalista00/BuildSafety/assets/122184547/bbb6a279-e42d-473b-91b4-028c63ef234e)
+<!--
 - 5개의 endpoint를 두고 반응형을 구현함
 
 ```javascript
@@ -104,24 +103,27 @@ export { deviceSizes, media };
 ```
 
 <img width="100%" alt="반응형 네비게이션" src="https://user-images.githubusercontent.com/51189962/136144313-2a67d258-3ec1-4517-80fc-3f67b957dff5.gif" />
-
+-->
 - 네비게이션 메뉴의 경우 mobile(768px)을 기준으로 그 이상일 경우 상단바, 이하일 경우 햄버거메뉴로 변경
 
-### **4. Email 전송**
+### **4. 시공/설계 지도 다음페이지**
 
-<img width="100%" alt="이메일 발신" src="https://user-images.githubusercontent.com/51189962/136146784-b8b42395-8a05-402a-b393-d0aa95580c7f.gif" />
-<img width="100%" alt="이메일 수신" src="https://user-images.githubusercontent.com/51189962/136147118-ae829b7e-7ca5-4ef0-92e2-f7adc70ddb29.png" />
+날짜별 공정적기(시공)
+![image](https://github.com/kalista00/BuildSafety/assets/122184547/77c8178f-62a0-4d6c-bf5a-5bfeb23dc5cf)
+
+해당지역 평균기후 및 특성(설계)
+![image](https://github.com/kalista00/BuildSafety/assets/122184547/cb4afb69-2478-4bd5-b84d-863229a7e4eb)
 
 - EmailJS를 이용하여 서버없이 메일 서비스를 이용할 수 있도록 구현
 - Sweetalert를 이용하여 커스텀 alert를 구현
 - https://emailjs.com
 - https://sweetalert2.github.io/
 
-### **5. Open graph**
-
-<img width="100%" alt="스크린샷 2021-10-06 15 02 30" src="https://user-images.githubusercontent.com/51189962/136148865-7b6cfd30-ae66-410f-89fa-16f9ad883c74.png" />
-
-<img width="100%" alt="스크린샷 2021-10-06 15 03 15" src="https://user-images.githubusercontent.com/51189962/136148961-28e8c84b-b5fb-4052-9150-7c20e6af3cbc.png" />
+### **5. 안전/설계지침(시공/설계)**
+시공 안전지침
+![image](https://github.com/kalista00/BuildSafety/assets/122184547/67bb8521-2727-4c67-b86b-a034d5373d01)
+기후 및 특성을 고려한 설계지침
+![image](https://github.com/kalista00/BuildSafety/assets/122184547/a265c1aa-2613-44c6-b6cb-7d86d0670a3d)
 
 ```html
 <!-- index.html --><!--
