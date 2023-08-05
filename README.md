@@ -110,7 +110,7 @@ export { deviceSizes, media };
 
 날짜별 공정적기(시공)
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/77c8178f-62a0-4d6c-bf5a-5bfeb23dc5cf)
-
+<br />
 해당지역 평균기후 및 특성(설계)
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/cb4afb69-2478-4bd5-b84d-863229a7e4eb)
 
@@ -122,6 +122,8 @@ export { deviceSizes, media };
 ### **5. 안전/설계지침(시공/설계)**
 시공 안전지침
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/67bb8521-2727-4c67-b86b-a034d5373d01)
+<br />
+<br />
 기후 및 특성을 고려한 설계지침
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/a265c1aa-2613-44c6-b6cb-7d86d0670a3d)
 
@@ -171,7 +173,6 @@ $ firebase deploy
 
 ## ⏰ 커밋 히스토리
 
-[내 커밋 히스토리 보러가기](https://github.com/keemtj/portfolio/commits?author=keemtj)
 <br/>
 <br/>
 <br/>
