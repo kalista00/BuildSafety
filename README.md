@@ -64,7 +64,7 @@
 ### **1. 메인페이지**
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/28c0c548-dc31-421b-b283-029a4e1ea54f)
 
-- 라이트 및 다크모드 기능 구현
+- 백그라운드 비디오 구현
 - 사용자의 시스템 모드에 맞게 theme이 설정되도록 구현
 - 사용자가 설정한 테마가 localStorage에 저장되어 한번 설정한 이후 같은 theme을 보여주도록 구현
 
