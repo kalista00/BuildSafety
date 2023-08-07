@@ -1,4 +1,4 @@
-![image](https://github.com/kalista00/BuildSafety/assets/122184547/f4080824-5932-4c77-bdc8-3e1adcef4224)![image](https://github.com/kalista00/BuildSafety/assets/122184547/dbd78508-26d8-46ed-94ab-6159d9ebaf68)# **PORTFOLIO**
+# **PORTFOLIO**
 
 ## **📗 목차**
 
