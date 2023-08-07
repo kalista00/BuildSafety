@@ -127,19 +127,16 @@ export { deviceSizes, media };
 기후 및 특성을 고려한 설계지침
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/a265c1aa-2613-44c6-b6cb-7d86d0670a3d)
 
-```html
-<!-- index.html --><!--
-<meta property="og:title" content="김태진 • Frontend Developer" />
-<meta property="og:description" content="프론트엔드 개발자 김태진입니다." />
-<meta property="og:image" content="%PUBLIC_URL%/thumb.png" />
-<meta property="og:url" content="https://keemtj.com/" />
-<meta property="og:type" content="website" />
-```
 
-- meta tags를 통해 Facebook, twitter, linkedin, discord, kakao talk 등 링크를 전달 했을 때 링크에 대한 정보를 볼 수 있도록 구현
-- https://www.opengraph.xyz
 
 ### **6. 기타 기능**
+
+- favicon.ico 생성
+- Fade-in transform
+- 프로젝트 페이지
+- React-responsive-carousel 커스텀
+- 
+### **7. 기타 기능**
 
 - favicon.ico 생성
 - Fade-in transform
