@@ -1,4 +1,4 @@
-# **PORTFOLIO**
+![image](https://github.com/kalista00/BuildSafety/assets/122184547/f4080824-5932-4c77-bdc8-3e1adcef4224)![image](https://github.com/kalista00/BuildSafety/assets/122184547/dbd78508-26d8-46ed-94ab-6159d9ebaf68)# **PORTFOLIO**
 
 ## **📗 목차**
 
@@ -129,19 +129,27 @@ export { deviceSizes, media };
 
 
 
-### **6. 기타 기능**
+### **6. 로딩창 구현**
+
+![image](https://github.com/kalista00/BuildSafety/assets/122184547/a94eaa33-3bb3-45d0-ab65-c0e9fe96cb79)
 
 - favicon.ico 생성
 - Fade-in transform
 - 프로젝트 페이지
 - React-responsive-carousel 커스텀
 - 
-### **7. 기타 기능**
+### **7. 사이드바**
+![image](https://github.com/kalista00/BuildSafety/assets/122184547/f9c931c3-3ff1-40c7-8b70-3514aa9caae2)
 
-- favicon.ico 생성
-- Fade-in transform
-- 프로젝트 페이지
-- React-responsive-carousel 커스텀
+### **8. 시공/설계 계획**
+![image](https://github.com/kalista00/BuildSafety/assets/122184547/e2fc0f29-6596-4763-9b74-cebbbe41f005)
+
+### **9. 채용정보**
+![image](https://github.com/kalista00/BuildSafety/assets/122184547/4d8a913b-9811-466f-a6f8-0e674967beb5)
+
+### **10. 기타 기능**
+- 사이트 가이드
+- Spring AOP 세션 구현
 
 ## **🚀 배포**
 
