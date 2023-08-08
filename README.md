@@ -121,37 +121,42 @@ export { deviceSizes, media };
 #### **해당지역 평균기후 및 특성(설계)**
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/cb4afb69-2478-4bd5-b84d-863229a7e4eb)
 - database에 저장된 해당지역의 평균기후를 가져옴
-- '설계지침보기' 버튼을 누르면 지침확인가능
+- '설계지침보기' 버튼을 누르면 지침확인가능 
 <br />
 ### **5. 안전/설계지침(시공/설계)**
 
 #### **시공 안전지침**
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/67bb8521-2727-4c67-b86b-a034d5373d01)
+- 전 페이지에서 가져온 기상청데이터와 선택한 공정을 고려해 GPT API로 시공안전지침 제공
+- 계획 작성란에 메모를 쓰고 계획 저장하면 지침과 메모가 함께 저장됨
 <br />
 <br />
 #### **기후 및 특성을 고려한 설계지침**
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/a265c1aa-2613-44c6-b6cb-7d86d0670a3d)
+- database에 저장된 기후를 고려해 GPT API로 설계지침 제공
+- 계획 작성란에 메모를 쓰고 계획 저장하면 지침과 메모가 함께 저장됨
 
 
-
+<br />
 ### **6. 로딩창 구현**
 
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/a94eaa33-3bb3-45d0-ab65-c0e9fe96cb79)
 
-- favicon.ico 생성
-- Fade-in transform
-- 프로젝트 페이지
-- React-responsive-carousel 커스텀
-- 
+- 로딩시간이 필요한 구간에 로딩창 구현
+<br />
 ### **7. 사이드바**
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/f9c931c3-3ff1-40c7-8b70-3514aa9caae2)
+- 사이드바로 원하는 페이지로 이동하기 용이하도록 구현
+<br />
 
 ### **8. 시공/설계 계획**
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/e2fc0f29-6596-4763-9b74-cebbbe41f005)
-
+- 시공/설계 페이지에서 저장했던 계획확인 가능
+<br />
 ### **9. 채용정보**
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/4d8a913b-9811-466f-a6f8-0e674967beb5)
-
+- 건축회사 채용정보 공공데이터 API를 이용해서 
+<br />
 ### **10. 기타 기능**
 - 사이트 가이드
 - Spring AOP 세션 구현
