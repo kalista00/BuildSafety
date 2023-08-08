@@ -155,7 +155,8 @@ export { deviceSizes, media };
 <br />
 ### **9. 채용정보**
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/4d8a913b-9811-466f-a6f8-0e674967beb5)
-- 건축회사 채용정보 공공데이터 API를 이용해서 
+- 건축회사 채용정보 공공데이터 API를 이용해서 채용정보 제공
+- '이동하기' 버튼 누르면
 <br />
 ### **10. 기타 기능**
 - 사이트 가이드
