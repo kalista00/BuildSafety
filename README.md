@@ -65,19 +65,23 @@
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/28c0c548-dc31-421b-b283-029a4e1ea54f)
 
 - 백그라운드 비디오 구현
-- 사용자의 시스템 모드에 맞게 theme이 설정되도록 구현
-- 사용자가 설정한 테마가 localStorage에 저장되어 한번 설정한 이후 같은 theme을 보여주도록 구현
+- 우측 상단바에 있는 버튼 누르면 해당 부분으로 focus
+- 사이트
 
 ### **2. 로그인**
 
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/13abada1-7927-4d70-ae6d-80869a5d31a4)
 
-- Hash Link링크를 이용하여 네비게이션에서 메뉴 클릭시 해당 영역으로 스크롤되도록 구현
-- 해당하는 메뉴의 영역은 Full page.js와 유사하게 스타일링함
+- 카카오 로그인 api로 로그인 구현
+- Spring AOP를 통한 세션관리
+- 로그인session이 있어야만 시공/설계/채용정보 페이지로 이동 가능
 
 ### **3. 지도**
 
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/bbb6a279-e42d-473b-91b4-028c63ef234e)
+
+- 메인에서 시공/설계
+ 
 <!--
 - 5개의 endpoint를 두고 반응형을 구현함
 
@@ -104,7 +108,7 @@ export { deviceSizes, media };
 
 <img width="100%" alt="반응형 네비게이션" src="https://user-images.githubusercontent.com/51189962/136144313-2a67d258-3ec1-4517-80fc-3f67b957dff5.gif" />
 -->
-- 네비게이션 메뉴의 경우 mobile(768px)을 기준으로 그 이상일 경우 상단바, 이하일 경우 햄버거메뉴로 변경
+
 
 ### **4. 시공/설계 지도 다음페이지**
 
