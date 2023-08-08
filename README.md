@@ -114,15 +114,15 @@ export { deviceSizes, media };
 
 #### **날짜별 공정적기(시공)**
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/77c8178f-62a0-4d6c-bf5a-5bfeb23dc5cf)
+- 기상청 공공데이터 api를 이용해서 날씨정보를 가져옴
+- 해당날짜에 공정을 적고 '안전지침확인' 버튼을 누르면 지침확인 가능
 <br />
+
 #### **해당지역 평균기후 및 특성(설계)**
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/cb4afb69-2478-4bd5-b84d-863229a7e4eb)
-
-- EmailJS를 이용하여 서버없이 메일 서비스를 이용할 수 있도록 구현
-- Sweetalert를 이용하여 커스텀 alert를 구현
-- https://emailjs.com
-- https://sweetalert2.github.io/
-
+- database에 저장된 해당지역의 평균기후를 가져옴
+- '설계지침보기' 버튼을 누르면 지침확인가능
+<br />
 ### **5. 안전/설계지침(시공/설계)**
 
 #### **시공 안전지침**
