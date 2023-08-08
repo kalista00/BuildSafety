@@ -66,7 +66,7 @@
 
 - 백그라운드 비디오 구현
 - 우측 상단바에 있는 버튼 누르면 해당 부분으로 focus
-- 
+  
 ### **2. 로그인**
 
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/13abada1-7927-4d70-ae6d-80869a5d31a4)
@@ -81,7 +81,6 @@
 
 - 메인에서 시공/설계버튼을 통해 들어올 수 있음
 - 카카오 맵 API를 사용해서 시공/설계페이지로 파라미터 전달
-- 
  
 <!--
 - 5개의 endpoint를 두고 반응형을 구현함
@@ -113,10 +112,10 @@ export { deviceSizes, media };
 
 ### **4. 시공/설계 지도 다음페이지**
 
-날짜별 공정적기(시공)
+#### **날짜별 공정적기(시공)**
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/77c8178f-62a0-4d6c-bf5a-5bfeb23dc5cf)
 <br />
-해당지역 평균기후 및 특성(설계)
+#### **해당지역 평균기후 및 특성(설계)**
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/cb4afb69-2478-4bd5-b84d-863229a7e4eb)
 
 - EmailJS를 이용하여 서버없이 메일 서비스를 이용할 수 있도록 구현
@@ -125,11 +124,12 @@ export { deviceSizes, media };
 - https://sweetalert2.github.io/
 
 ### **5. 안전/설계지침(시공/설계)**
-시공 안전지침
+
+#### **시공 안전지침**
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/67bb8521-2727-4c67-b86b-a034d5373d01)
 <br />
 <br />
-기후 및 특성을 고려한 설계지침
+#### **기후 및 특성을 고려한 설계지침**
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/a265c1aa-2613-44c6-b6cb-7d86d0670a3d)
 
 
