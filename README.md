@@ -66,13 +66,12 @@
 
 - 백그라운드 비디오 구현
 - 우측 상단바에 있는 버튼 누르면 해당 부분으로 focus
-- 사이트
-
+- 
 ### **2. 로그인**
 
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/13abada1-7927-4d70-ae6d-80869a5d31a4)
 
-- 카카오 로그인 api로 로그인 구현
+- 카카오 로그인 API로 로그인 구현
 - Spring AOP를 통한 세션관리
 - 로그인session이 있어야만 시공/설계/채용정보 페이지로 이동 가능
 
@@ -80,7 +79,9 @@
 
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/bbb6a279-e42d-473b-91b4-028c63ef234e)
 
-- 메인에서 시공/설계
+- 메인에서 시공/설계버튼을 통해 들어올 수 있음
+- 카카오 맵 API를 사용해서 시공/설계페이지로 파라미터 전달
+- 
  
 <!--
 - 5개의 endpoint를 두고 반응형을 구현함
