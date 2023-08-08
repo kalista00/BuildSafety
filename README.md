@@ -132,6 +132,7 @@ export { deviceSizes, media };
 <br />
 <br />
 #### **기후 및 특성을 고려한 설계지침**
+<br />
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/a265c1aa-2613-44c6-b6cb-7d86d0670a3d)
 - database에 저장된 기후를 고려해 GPT API로 설계지침 제공
 - 계획 작성란에 메모를 쓰고 계획 저장하면 지침과 메모가 함께 저장됨
