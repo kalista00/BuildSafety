@@ -131,7 +131,7 @@ export { deviceSizes, media };
 - 전 페이지에서 가져온 기상청데이터와 선택한 공정을 고려해 GPT API로 시공안전지침 제공
 - 계획 작성란에 메모를 쓰고 계획 저장하면 지침과 메모가 함께 저장됨
 <br />
-<br />
+
 #### **기후 및 특성을 고려한 설계지침**
 <br />
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/a265c1aa-2613-44c6-b6cb-7d86d0670a3d)
