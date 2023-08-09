@@ -13,7 +13,11 @@
   - [지도](#3-지도)
   - [시공/설계 지도 다음페이지](#4-시공/설계-지도-다음페이지)
   - [안전/설계지침(시공/설계)](#5-안전/설계지침(시공/설계))
-  - [기타](#6-기타-기능)
+  - [로딩창 구현](#6-로딩창-구현)
+  - [사이드바](#7-사이드바)
+  - [시공/설계 계획](#8-시공/설계-계획)
+  - [채용정보](#9-채용정보)
+  - [기타 기능](#10-기타-기능)
 - 🚀 [배포](#-배포)
 - ⏰ [커밋 히스토리](#-커밋-히스토리)
 
@@ -81,34 +85,7 @@
 
 - 메인에서 시공/설계버튼을 통해 들어올 수 있음
 - 카카오 맵 API를 사용해서 시공/설계페이지로 파라미터 전달
- 
-<!--
-- 5개의 endpoint를 두고 반응형을 구현함
-
-```javascript
-// media.js
-const deviceSizes = {
-  desktop: '1440px',
-  laptop: '1280px',
-  tablet: '1024px',
-  mobile: '768px',
-  phone: '480px',
-};
-
-const media = {
-  desktop: `screen and (max-width: ${deviceSizes.desktop})`,
-  laptop: `screen and (max-width: ${deviceSizes.laptop})`,
-  tablet: `screen and (max-width: ${deviceSizes.tablet})`,
-  mobile: `screen and (max-width: ${deviceSizes.mobile})`,
-  phone: `screen and (max-width: ${deviceSizes.phone})`,
-};
-
-export { deviceSizes, media };
-```
-
-<img width="100%" alt="반응형 네비게이션" src="https://user-images.githubusercontent.com/51189962/136144313-2a67d258-3ec1-4517-80fc-3f67b957dff5.gif" />
--->
-
+<br />
 
 ### **4. 시공/설계 지도 다음페이지**
 
@@ -138,6 +115,7 @@ export { deviceSizes, media };
 - database에 저장된 기후를 고려해 GPT API로 설계지침 제공
 - 계획 작성란에 메모를 쓰고 계획 저장하면 지침과 메모가 함께 저장됨
 <br />
+
 ### **6. 로딩창 구현**
 
 ![image](https://github.com/kalista00/BuildSafety/assets/122184547/a94eaa33-3bb3-45d0-ab65-c0e9fe96cb79)
