@@ -66,7 +66,7 @@
 ## **👨🏻‍💻 기능 구현**
 
 ### **1. 메인페이지**
-![image](https://github.com/kalista00/BuildSafety/assets/122184547/28c0c548-dc31-421b-b283-029a4e1ea54f)
+![main](https://github.com/kalista00/BuildSafety/assets/122184547/d2423ce3-bf24-4c59-9faa-445673a73097)
 
 - 백그라운드 비디오 구현
 - 우측 상단바에 있는 버튼 누르면 해당 부분으로 focus
